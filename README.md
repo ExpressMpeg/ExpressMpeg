@@ -20,7 +20,7 @@ pip install PyQt6-Frameless-Window
 ```
 
 ### Windows Software
-|Platform| Binary|
+|Platform| Files|
 |--------| ------|
 |Windows 11| [Windows x86_64 installer](https://www.example.org/)|
 
