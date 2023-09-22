@@ -1,16 +1,28 @@
-### Hi there 👋
+# ExpressMpeg
+ExpressMpeg is a crossplatform fancy free app to convert files easily.
 
-<!--
-**ExpressMpeg/ExpressMpeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Install
 
-Here are some ideas to get you started:
+### Pythonic Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You'll need:
+
+Python 3.11
+
+``` batch
+pip install PyQt6
+```
+
+``` batch
+pip install PyQt6-Frameless-Window
+```
+
+### Windows Software
+|Platform| Binary|
+|--------| ---|
+|Windows 11| [Windows x86_64 installer](https://www.example.org/)|
+
+## License
+PyQt6-Frameless-Window is licensed under [MIT](./LICENSE).
+
+Copyright © 2023 by Jean Moïse Talec.
