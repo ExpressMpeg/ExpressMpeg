@@ -1,0 +1,10 @@
+{
+    "ext": "8svx", 
+    "description": "8SVX Files (*.8svx)",
+    "config" : {
+        "Hello@Set your expression" : [1, ["ptdr", "pqfd", "ftg"]],
+        "How@Choose your name"   : [0, ["|Mighty name", "|Browse name"]],
+        "are@Check your effects"   : [1, ["%Mica Effect", "%Browse Effect"]],
+        "you@select the slide#QSlide"   : [23, [0, 100, 2]]
+    }
+}
