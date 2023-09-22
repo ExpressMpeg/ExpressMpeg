@@ -21,12 +21,18 @@ pip install PyQt6-Frameless-Window
 
 ### Windows Software
 |Platform| Binary|
-|--------| ---|
+|--------| ------|
 |Windows 11| [Windows x86_64 installer](https://www.example.org/)|
 
 ## Quick Start
 
-- Add your files clicking `Add Files` Button or drag your files on the window
+- Add your files clicking `Add Files` button or drag your files on the window.
+- Press `Start` button.
+- In the dialog, select what you want to do (for example, convert `.wav` files into `.mp3`).
+- Press `ok` button.
+
+Your files will be in the output folder.
+Press `Open Ouput Folder` to see your files.
 
 ## License
 PyQt6-Frameless-Window is licensed under [MIT](./LICENSE).
