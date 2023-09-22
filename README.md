@@ -26,7 +26,7 @@ pip install PyQt6-Frameless-Window
 
 ## Quick Start
 
-- Add your files clicking `Add Files` button or drag your files on the window.
+- Add your files clicking `Add Files` button or drag your files into the window.
 - Press `Start` button.
 - In the dialog, select what you want to do (for example, convert `.wav` files into `.mp3`).
 - Press `ok` button.
