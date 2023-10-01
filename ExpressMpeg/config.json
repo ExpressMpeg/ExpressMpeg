@@ -1,7 +1,0 @@
-{
-    "WIN_SIZE" : [800, 600],      
-    "OUTPUT_FOLDER" : "./output",
-    "FAV_ICON" : "./favicon.png",
-    "SEMAPHORE" : 2,
-    "HELP_URL" : "The selected file has no extention provided\nPlease try an other file or add the extention to file."
-}

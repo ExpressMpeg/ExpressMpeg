@@ -1,6 +1,0 @@
-Sartup time: 0.08441662788391113
-[Thu Sep 21 17:01:43 2023] Main.__init__ -> initializing AcrylicWindow
-[Thu Sep 21 17:01:44 2023] Main.load_ui -> loaded ui with success
-[Thu Sep 21 17:01:48 2023] __main__ -> Saving log...
-[Thu Sep 21 17:01:48 2023] __main__ -> Exit process with code 0
-Total running time: 4.588618278503418

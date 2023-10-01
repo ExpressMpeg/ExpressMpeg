@@ -1,9 +1,0 @@
-<RCC>
-  <qresource prefix="root">
-    <file>src/folder.png</file>
-    <file>src/settings.png</file>
-  </qresource>
-  <qresource prefix="favicon">
-    <file>favicon.png</file>
-  </qresource>
-</RCC>
