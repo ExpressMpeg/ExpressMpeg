@@ -11,4 +11,4 @@ These vertions are provided to have security updates:
 
 ## Reporting a Vulnerability
 
-If you have a vulnerability, please check [this](./README.MD#Bugs).
+If you have a vulnerability, please check [this](./README.md#Bugs).
