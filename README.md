@@ -1,40 +1,53 @@
-# ExpressMpeg
-ExpressMpeg is a crossplatform fancy free app to convert files easily.
+<p align="right">
+  <a style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Platform-Windows%2011-blue?logo=windows%2011&logoColor=40c7ff" alt="Platform Windows 11"/>
+  </a>
+</p>
 
+# ExpressMpeg
 ![Cover](./main-window.png)
+#### What is ExpressMpeg
+ExpressMpeg is a windows fancy free app to convert music files easily. 
+It is fully free and doesn't require account stuff and works offline.
 
 ## Install
 
-### Pythonic Software
-
-You'll need:
-
-Python 3.11
-
-``` batch
-pip install PyQt6
-```
-
-``` batch
-pip install PyQt6-Frameless-Window
-```
-
 ### Windows Software
-|Platform| Files|
-|--------| ------|
-|Windows 11| [Windows x86_64 installer](https://www.example.org/)|
+|Platform  | Files                                          |
+|--------  | ------                                         |
+|Windows 11| [Windows x86_64 installer v. 1.2](./installer/win_x86_64_(1_1).exe)<br>[Windows x86_64 installer v. 1.1](./installer/win_x86_64_(1_1).exe)|
 
 ## Quick Start
-
-- Add your files clicking `Add Files` button or drag your files into the window.
+To convert an audio, please follow these steps:
+-  Add your files clicking `Add Files` button or drag your files on the window.
 - Press `Start` button.
-- In the dialog, select what you want to do (for example, convert `.wav` files into `.mp3`).
+- In the dialog, select what you want to do (for example, convert `.wav` files into `.mp3` and send it to the `Output Folder`).
 - Press `ok` button.
 
 Your files will be in the output folder.
 Press `Open Ouput Folder` to see your files.
 
-## License
-PyQt6-Frameless-Window is licensed under [MIT](./LICENSE).
+*NOTE: You can pause at any moment converting clicking `Pause` button.*
 
-Copyright © 2023 by Jean Moïse Talec.
+## Updates
+
+Updates will appeare here.
+For now, no updates are available.
+
+## Bugs
+Unfortunatly, ExpressMpeg is not fully bugfixed. If a bug appears: folow these instructions:
+
+- Press `Windows + R` button and type in `cmd.exe`.
+- In the window that appeared, paste the folowing: 
+``` batch
+cd ./AppData/Local/ExpressMpeg
+explorer.exe .
+```
+- You should see a file called `DEBUG.log`.
+- Send this file to `expressmpeg@gmail.com` and we'll try to fix the bug.
+
+
+## License
+ExpressMpeg is licensed under [MIT](./LICENSE).
+
+*Copyright © 2023 by Jean Moïse Talec.*
