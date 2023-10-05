@@ -15,7 +15,7 @@ It is fully free and doesn't require account stuff and works offline.
 ### Windows Software
 |Platform  | Files                                          |
 |--------  | ------                                         |
-|Windows 11| [Windows x86_64 installer v. 1.2](./installer/win_x86_64_(1_1).exe)<br>[Windows x86_64 installer v. 1.1](./installer/win_x86_64_(1_1).exe)|
+| <p><img src="https://simpleicons.org/icons/windows.svg" width=15 align="justify"> Windows 11 </p> | [Windows x86_64 installer v. 1.2](./installer/win_x86_64_(1_1).exe)<br>[Windows x86_64 installer v. 1.1](./installer/win_x86_64_(1_1).exe)|
 
 ## Quick Start
 To convert an audio, please follow these steps:
@@ -35,7 +35,7 @@ Updates will appeare here.
 For now, no updates are available.
 
 ## Bugs
-Unfortunatly, ExpressMpeg is not fully bugfixed. If a bug appears: folow these instructions:
+Unfortunatly, ExpressMpeg is not fully bugfixed. If a bug appears, folow these instructions:
 
 - Press `Windows + R` button and type in `cmd.exe`.
 - In the window that appeared, paste the folowing: 
