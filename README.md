@@ -15,7 +15,7 @@ It is fully free and doesn't require account stuff and works offline.
 ### Windows Software
 |Platform  | Files                                          |
 |--------  | ------                                         |
-| <img src="./windows-11.png" height=32 align="justify"> | [Windows x86_64 installer v. 1.2](./installer/win_x86_64_(1_1).exe)<br>[Windows x86_64 installer v. 1.1](./installer/win_x86_64_(1_1).exe)|
+| <img src="./windows-11.png" height=32 align="justify"> | [Windows x86_64 installer v. 1.1](https://www.vizysound.com/ExpressMpeg/installers/expressmpeg_x86_64_v(1.1).exe)|
 
 ## Quick Start
 To convert an audio, please follow these steps:
