@@ -41,7 +41,7 @@ Unfortunatly, ExpressMpeg is not fully bugfixed. If a bug appears, folow these i
 - Press `Open Log Folder` button.<br>
 *An explorer window will appear*
 - You should see a file called `DEBUG.log`.
-- Send this file to [`expressmpeg@gmail.com`](mailto:expressmpeg.com) and we'll try to fix the bug.
+- Send this file to [expressmpeg@gmail.com](mailto:expressmpeg.com) and we'll try to fix the bug.
 
 
 ## License
