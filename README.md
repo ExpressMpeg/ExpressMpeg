@@ -12,14 +12,26 @@ It is fully free and doesn't require account stuff and works offline.
 
 ## Install
 
+#### Installing 💾 ExpressMpeg is very simple.<br>
+- Click on one of these files downwards. (The last version is the best one!!!)
+- Go to your download directory.
+- Click the file beginning with `expressmpeg`.
+- Normally, the computer asks you if you allow this program to change your computer. (It's just installing)
+- If you have allowed the program to copy its files into `C:\Program Files (x86)\ExpressMpeg`, press `Agree` in the window.
+- Press `Install` button.
+- Wait while the installer copies all its files.
+- Press `Finished` button.
+
+Tadam! The beautiful window of expressmpeg appears. Please refer to [Quick Start](#Quick Start) to begin converting.
+
 ### Windows Software
 |Platform  | <img width=16 src="https://www.svgrepo.com/download/138917/download.svg"> Files                                          |
 |--------  | ------                                         |
-| <img src="./windows-11.png" height=32 align="justify"> | [Windows x86_64 installer v. 1.1](https://www.vizysound.com/ExpressMpeg/installers/expressmpeg_x86_64_v_(1.1).exe)|
+| <img src="./windows-11.png" height=32 align="justify"> | ![beta](https://img.shields.io/badge/BETA-purple) [Windows x86_64 installer (v1.1)](https://www.vizysound.com/ExpressMpeg/installers/expressmpeg_x86_64_v_(1.1)_BETA.exe)  |
 
 ## Quick Start
 To convert an audio, please follow these steps:
--  Add your files clicking `Add Files` button or drag your files on the window.
+- Add your files clicking `Add Files` button or drag your files on the window.
 - Press `Start` button.
 - In the dialog, select what you want to do (for example, convert `.wav` files into `.mp3` and send it to the `Output Folder`).
 - Press `ok` button.
@@ -43,7 +55,7 @@ Unfortunatly, ExpressMpeg is not fully bugfixed. If a bug appears, folow these i
 - You should see a file called `DEBUG.log`.
 - Send this file to [expressmpeg@gmail.com](mailto:expressmpeg.com) and we'll try to fix the bug.
 
-
+We apriciate so much these kind of help 💜.
 ## License
 ExpressMpeg is licensed under [MIT](./LICENSE).
 
