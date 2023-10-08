@@ -55,7 +55,7 @@ Unfortunatly, ExpressMpeg is not fully bugfixed. If a bug appears, folow these i
 - You should see a file called `DEBUG.log`.
 - Send this file to [expressmpeg@gmail.com](mailto:expressmpeg.com) and we'll try to fix the bug.
 
-We apriciate so much these kind of help 💜.
+We appreciate so much these kind of help 💜.
 ## License
 ExpressMpeg is licensed under [MIT](./LICENSE).
 
