@@ -22,7 +22,7 @@ It is fully free and doesn't require account stuff and works offline.
 - Wait while the installer copies all its files.
 - Press `Finished` button.
 
-Tadam! The beautiful window of expressmpeg appears. Please refer to [#Quick Start](https://github.com/ExpressMpeg/ExpressMpeg/blob/main/README.md#quick-start) to begin converting.
+Tadam! The beautiful window of expressmpeg appears. Please refer to [Quick Start](#quick-start) to begin converting.
 
 ### Windows Software
 |Platform  | <img width=16 src="https://www.svgrepo.com/download/138917/download.svg"> Files                                          |
