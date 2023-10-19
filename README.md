@@ -12,7 +12,7 @@ It is fully free and doesn't require account stuff and works offline.
 
 ## Install
 
-#### Installing 💾 ExpressMpeg is very simple.<br>
+#### 💾 Installing ExpressMpeg is very simple.<br>
 - Click on one of these files downwards. (The last version is the best one!!!)
 - Go to your download directory.
 - Click the file beginning with `expressmpeg`.
