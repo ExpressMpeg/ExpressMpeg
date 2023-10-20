@@ -49,7 +49,7 @@ For now, no updates are available.
 ## Bugs
 Unfortunatly, ExpressMpeg is not fully bugfixed. If a bug appears, folow these instructions:
 
-- Press `?` button on the top left corner of the window.
+- Press `⚙` button on the top left corner of the window.
 - Press `Open Log Folder` button.<br>
 *An explorer window will appear*
 - You should see a file called `DEBUG.log`.
