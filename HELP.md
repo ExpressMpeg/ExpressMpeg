@@ -5,6 +5,10 @@
 Here are the topics you might want to know about:
 
 - [Main Window](#main-window)
+    - [Add Files](#add-files)
+    - [Play a song from ExpressMpeg](play-a-song-from-expressmpeg)
+    - [Delete a song](delete-a-song)
+- [Add Files](#add-files)
 - [Start Dialog](#start-dialog)
 - [Settings Dialog](#SettingsDialog)
 - [Help Dialog](#HelpDialog)
@@ -40,5 +44,8 @@ You can choose:
 
 ![Start Dialog](./start-dialog.png)
 Choose a configuration and then press `Ok`.
+
+## While Converting
+
 
 
