@@ -56,6 +56,6 @@ A message will rise when the all the conversion process is done
 
 ## Settings
 
-
+![Settings](./settings.png)
 
 
