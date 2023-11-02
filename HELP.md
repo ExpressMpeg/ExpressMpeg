@@ -10,8 +10,8 @@ Here are the topics you might want to know about:
     - Delete a song
 - [Start Dialog](#start-dialog)
 - [While Converting](#while-converting)
-  - ⏸ Pause and Resume
-  - ✓ All Files are Converted
+  - Pause and Resume
+  - All Files are Converted
 - [Settings](#settings)
   - Output Folder
   - Output Framerate
