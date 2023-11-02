@@ -9,8 +9,11 @@ Here are the topics you might want to know about:
     - [Play a song from ExpressMpeg](play-a-song-from-expressmpeg)
     - [Delete a song](delete-a-song)
 - [Start Dialog](#start-dialog)
-- [Settings Dialog](#SettingsDialog)
-- [Help Dialog](#HelpDialog)
+- [While Converting](#while-converting)
+  - [Pause and Resume](#pause-and-resume)
+  - [All Files are Converted](✓-all-files-are-converted)
+- [Settings](#Settings)
+
 
 ## Main Window
 This window is the best window of ExpressMpeg! You can either drag and drop your files or press `Add Files` to add musics!!
@@ -50,7 +53,7 @@ Choose a configuration and then press `Ok`.
 You can `Pause` the converting process. This will cause to pause the files queue.
 If you want to restore the converting process, press the `Resume` button.
 
-#### ✓ All Files are converted
+#### ✓ All Files are Converted
 
 A message will rise when the all the conversion process is done
 
