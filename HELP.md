@@ -58,4 +58,24 @@ A message will rise when the all the conversion process is done
 
 ![Settings](./settings.png)
 
+#### Output Folder
+
+You can set the output folder, clicking the `📂` button, or writing the full path in the line edit.
+
+#### Output Framerate
+
+You can set the output framerate to the:
+
+- Highest quality
+- Custom quality
+
+*NOTE: The framerate is applied only if the file supports this framerate*
+
+#### Number of Files Processed at the Same Time
+
+- If your pc has a `Core i7` cpu with at least 16 GB RAM, you can set the option to 3.
+- If your pc has a `Core i5` cpu with at least 8 GB RAM, you can set the option to 2.
+- If your pc has a `Core i3` cpu with at least 4 GB RAM, you can set the option to 1.
+
+*NOTE: If the option istoo high, the application will simply crash without crashing the whole system.*
 
