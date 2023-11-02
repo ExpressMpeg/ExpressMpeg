@@ -28,6 +28,7 @@ Tadam! The beautiful window of expressmpeg appears. Please refer to [Quick Start
 |Platform  | <img width=16 src="https://www.svgrepo.com/download/138917/download.svg"> Files                                          |
 |--------  | ------                                         |
 | <img src="./windows-11.png" height=32 align="justify"> | ![beta1](https://img.shields.io/badge/BETA-purple) [Windows x86_64 installer (v1.2)](https://www.vizysound.com/ExpressMpeg/installers/expressmpeg_x86_64_v_(1.2)_BETA.exe)  |
+| <p style="align:left"><img src="./Windows 7.png" height=32 align="justify"></p>|Hello|
 
 
 ## Quick Start
