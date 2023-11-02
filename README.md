@@ -23,11 +23,11 @@ It is fully free and doesn't require account stuff and works offline.
 - Press `Finished` button.
 
 Tadam! The beautiful window of expressmpeg appears. Please refer to [Quick Start](#quick-start) to begin converting.
-
+<!-- ![beta1](https://img.shields.io/badge/BETA-purple) -->
 ### Windows Software
 |Platform  | <img width=16 src="https://www.svgrepo.com/download/138917/download.svg"> Files                                          |
 |--------  | ------                                         |
-| <img src="./windows-11.png" height=32 align="justify"> | ![beta1](https://img.shields.io/badge/BETA-purple) [Windows x86_64 installer (v1.2)](https://www.vizysound.com/ExpressMpeg/installers/expressmpeg_x86_64_v_(1.2)_BETA.exe)  |
+| <img src="./windows-11.png" height=32 align="justify"> | [Windows x86_64 installer (v1.2)](https://www.vizysound.com/ExpressMpeg/installers/expressmpeg_x86_64_v_(1.2.1).exe)  |
 | <img style="margin-left:12px" src="./windows-7.png" height=32 align="justify">|Comming soon|
 
 
