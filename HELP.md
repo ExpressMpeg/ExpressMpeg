@@ -46,12 +46,16 @@ Choose a configuration and then press `Ok`.
 
 ## While Converting
 
+#### ⏸ Pause and Resume
 You can `Pause` the converting process. This will cause to pause the files queue.
 If you want to restore the converting process, press the `Resume` button.
 
-### All Files are converted
+#### ✓ All Files are converted
 
 A message will rise when the all the conversion process is done
+
+## Settings
+
 
 
 
