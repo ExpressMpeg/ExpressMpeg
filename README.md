@@ -1,5 +1,8 @@
 <p align="right">
   <a style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Platform-Windows%207-green?logo=windows%20xp&logoColor=9ac342" alt="Platform Windows 11"/>
+  </a>
+  <a style="text-decoration:none">
     <img src="https://img.shields.io/badge/Platform-Windows%2011-blue?logo=windows%2011&logoColor=40c7ff" alt="Platform Windows 11"/>
   </a>
 </p>
