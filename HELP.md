@@ -10,8 +10,6 @@ Here are the topics you might want to know about:
     - [Delete a song](delete-a-song)
 - [Start Dialog](#start-dialog)
 - [While Converting](#while-converting)
-  - [Pause and Resume](#pause-and-resume)
-  - [All Files are Converted](#✓-all-files-are-converted)
 - [Settings](#Settings)
 
 
