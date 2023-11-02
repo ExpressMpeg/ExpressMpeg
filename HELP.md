@@ -5,12 +5,18 @@
 Here are the topics you might want to know about:
 
 - [Main Window](#main-window)
-    - [Add Files](#add-files)
-    - [Play a song from ExpressMpeg](play-a-song-from-expressmpeg)
-    - [Delete a song](delete-a-song)
+    - Add Files
+    - Play a song from ExpressMpeg
+    - Delete a song
 - [Start Dialog](#start-dialog)
 - [While Converting](#while-converting)
-- [Settings](#Settings)
+  - ⏸ Pause and Resume
+  - ✓ All Files are Converted
+- [Settings](#settings)
+  - Output Folder
+  - Output Framerate
+  - Number of Files Processed at the Same Time
+  - Open Log Folder
 
 
 ## Main Window
@@ -84,6 +90,3 @@ You can set the output framerate to the:
 
 The `Open Log Folder` button will help you to report a bug. Press `Report Bug` button to report a bug.
 
-#### Help button
-
-Displays the current help.
