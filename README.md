@@ -1,13 +1,4 @@
-
-</p>
-  <h1 align="center">
-  ExpressMpeg
-</h1>
-
-<p align="center">
-  A very simple fancy software to convert audio files.
-</p>
-<p align="center">
+<p align="right">
   <a style="text-decoration:none">
     <img src="https://img.shields.io/badge/Platform-Windows%207-green?logo=windows%20xp&logoColor=9ac342" alt="Platform Windows 11"/>
   </a>
@@ -18,10 +9,11 @@
 
 
 
+# ExpressMpeg
+
+A very simple fancy software to convert audio files.
+
 ![Cover](./main-window.png)
-#### What is ExpressMpeg
-ExpressMpeg is a windows fancy free app to convert music files easily. 
-It is fully free and doesn't require account stuff and works offline.
 
 ## Install
 
