@@ -67,7 +67,7 @@ You can set the output folder, clicking the `📂` button, or writing the full p
 You can set the output framerate to the:
 
 - Highest quality
-- Custom quality
+- Custom quality (11025, 22050, 44100, 48000, 96000, 192000) fps
 
 *NOTE: The framerate is applied only if the file supports this framerate*
 
@@ -77,5 +77,12 @@ You can set the output framerate to the:
 - If your pc has a `Core i5` cpu with at least 8 GB RAM, you can set the option to 2.
 - If your pc has a `Core i3` cpu with at least 4 GB RAM, you can set the option to 1.
 
-*NOTE: If the option istoo high, the application will simply crash without crashing the whole system.*
+*NOTE: If the option is too high, the application will simply crash without crashing the whole system.*
 
+#### Open Log Folder
+
+The `Open Log Folder` button will help you to report a bug. Press `Report Bug` button to report a bug.
+
+#### Help button
+
+Displays the current help.
