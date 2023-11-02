@@ -46,6 +46,10 @@ Press `Open Ouput Folder` to see your files.
 
 *NOTE: You can pause at any moment converting clicking `Pause` button.*
 
+## Help File
+
+👉 Visit our [Help File](./HELP.md) for more specific features and more about each step.
+
 ## Updates
 
 Updates will appeare here.
