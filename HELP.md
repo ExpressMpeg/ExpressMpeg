@@ -11,7 +11,7 @@ Here are the topics you might want to know about:
 - [Start Dialog](#start-dialog)
 - [While Converting](#while-converting)
   - [Pause and Resume](#pause-and-resume)
-  - [All Files are Converted](✓-all-files-are-converted)
+  - [All Files are Converted](#all-files-are-converted)
 - [Settings](#Settings)
 
 
