@@ -55,6 +55,7 @@ Press `Open Ouput Folder` to see your files.
 Updates will appeare here.
 For now, no updates are available.
 
+
 ## Bugs
 Unfortunatly, ExpressMpeg is not fully bugfixed. If a bug appears, folow these instructions:
 
