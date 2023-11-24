@@ -33,8 +33,9 @@ Tadam! The beautiful window of expressmpeg appears. Please refer to [Quick Start
 | <img src="./windows-11.png" height=32 align="justify"> | [Windows x86_64 installer v(2.0.4)](https://www.vizysound.com/ExpressMpeg/installers/expressmpeg_x86_64_v_(2.0.4).exe)  |
 | <img style="margin-left:12px" src="./windows-7.png" height=32 align="justify">|[Windows win32 installer v(2.0.2)](https://www.vizysound.com/ExpressMpeg/installers/expressmpeg_win32_v_(2.0.2).exe)|
 
-*Note: if you are running on Windows 8 or 10 or on a x86_64 windows 7, download the windows 11 version.*
-*Note: The windows 7 version might work on windows 2000 or windows XP.*
+**NOTE:**
+- *If you are running on Windows 8 or 10 or on a x86_64 windows 7, download the windows 11 version.*
+- *The windows 7 version might work on windows 2000 or windows XP.*
 
 
 ## Quick Start
