@@ -36,7 +36,7 @@ ________________________________
 
 #### Delete a song
 Select a song and press the `🗑` wallpaper button to delete the song.
-You can also press `Del` key do delete the song.
+You can also press `Del` or `BackSpace` key do delete the song.
 _________________________________
 ![delete item](./delete-item.png)
 _________________________________
