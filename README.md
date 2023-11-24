@@ -60,11 +60,7 @@ For now, no updates are available.
 ## Bugs
 Unfortunatly, ExpressMpeg is not fully bugfixed. If a bug appears, folow these instructions:
 
-- Press `⚙` button on the top left corner of the window.
-- Press `Open Log Folder` button.<br>
-*An explorer window will appear*
-- You should see a file called `DEBUG.log`.
-- Send this file to [expressmpeg@gmail.com](mailto:expressmpeg.com) and we'll try to fix the bug.
+- Describe your bug to [expressmpeg@gmail.com](mailto:expressmpeg.com) and we'll try to fix the bug.
 
 We appreciate so much these kind of help 💜.
 ## License
