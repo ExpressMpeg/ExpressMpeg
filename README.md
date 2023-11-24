@@ -1,8 +1,9 @@
 <p align="right">
   <img src="https://img.shields.io/badge/Platform-Windows%207-green?logo=windows%20xp&logoColor=9ac342" alt="Platform Windows 11"/>
+  <img src="https://img.shields.io/badge/Platform-Windows%2010-black?logo=windows%2010&logoColor=black" alt="Platform Windows 7"/>
   <img src="https://img.shields.io/badge/Platform-Windows%2011-blue?logo=windows%2011&logoColor=40c7ff" alt="Platform Windows 7"/>
   <img src="https://img.shields.io/badge/Uses%20Qt-gray?logo=Qt&logoColor=green" alt="Powered by Qt"/>
-  <img src="https://img.shields.io/badge/Download%20size-20MB-green" alt="Download size 20MB"/>
+  <img src="https://img.shields.io/badge/Download%20size-89MB-green" alt="Download size 20MB"/>
 </p>
 
 
@@ -30,7 +31,7 @@ Tadam! The beautiful window of expressmpeg appears. Please refer to [Quick Start
 ### Windows Software
 |Platform  | <img width=16 src="https://www.svgrepo.com/download/138917/download.svg"> Files                                          |
 |--------  | ------                                         |
-| <img src="./windows-11.png" height=32 align="justify"> | [Windows x86_64 installer v(2.0.2)](https://www.vizysound.com/ExpressMpeg/installers/expressmpeg_x86_64_v_(2.0.2).exe)  |
+| <img src="./windows-11.png" height=32 align="justify"> | [Windows x86_64 installer v(2.0.4)](https://www.vizysound.com/ExpressMpeg/installers/expressmpeg_x86_64_v_(2.0.4).exe)  |
 | <img style="margin-left:12px" src="./windows-7.png" height=32 align="justify">|[Windows win32 installer v(2.0.2)](https://www.vizysound.com/ExpressMpeg/installers/expressmpeg_win32_v_(2.0.2).exe)|
 
 
