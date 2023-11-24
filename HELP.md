@@ -86,7 +86,4 @@ You can set the output framerate to the:
 
 *NOTE: If the option is too high, the application will simply crash without crashing the whole system.*
 
-#### Open Log Folder
-
-The `Open Log Folder` button will help you to report a bug. Press `Report Bug` button to report a bug.
 
