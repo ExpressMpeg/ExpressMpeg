@@ -16,7 +16,7 @@ A very simple fancy software to convert audio files.
 
 #### 💾 Installing ExpressMpeg is very simple.<br> 
 
-- Click on one of these files downwards. (The last version is the best one!!!) 
+- Click on one of these files downwards.
 - Go to your download directory. 
 - Click the file beginning with `expressmpeg`. 
 - Normally, the computer asks you if you allow this program to change your computer. (It's just installing) 
