@@ -23,47 +23,47 @@ A very simple fancy software to convert audio files.
 - If you have allowed the program to copy its files into `C:\Program Files (x86)\ExpressMpeg`, press `Agree` in the window. 
 - Press the `Install` button. 
 - Wait while the installer copies all its files. 
-- Press `Finished` button. 
+- Press the 'Finish' button. 
 
-Tadam! The beautiful window of expressmpeg appears. Please refer to [Quick Start](#quick-start) to begin converting. 
+Wow! The beautiful expressmpeg window appears. Please refer to [Quick Start](#quick-start) to start converting. 
 
 ### Windows Software 
 
-|Platform  | <img width=16 src="https://www.svgrepo.com/download/138917/download.svg"> Files                                          | 
-|--------  | ------                                         | 
+|Platform | <img width=16 src="https://www.svgrepo.com/download/138917/download.svg"> Files | 
+|-------- | ------ | 
 | <img src="./windows-11.png" height=32 align="justify"> | [Windows x86_64 installer v(2.0.5)](https://www.vizysound.com/ExpressMpeg/installers/expressmpeg_x86_64_v_(2.0.5).exe)  | 
 | <img style="margin-left:12px" src="./windows-7.png" height=32 align="justify">|[Windows win32 installer v(2.0.2)](https://www.vizysound.com/ExpressMpeg/installers/expressmpeg_win32_v_(2.0.2).exe)| 
 
 **NOTE:** 
-- *If you are running on Windows 8 or 10 or on a x86_64 windows 7, download the windows 11 version.* 
-- *The windows 7 version might work on windows 2000 or windows XP.* 
+- If you are running Windows 8 or 10 or x86_64 Windows 7, download the Windows 11 version. 
+- The Windows 7 version may also work on Windows 2000 or Windows XP. 
 
 ## Quick Start 
 
-To convert an audio, please follow these steps: 
-- Add your files by clicking the `Add Files` button or drag your files on the window. 
-- Press `Start` button. 
-- In the dialog, select what you want to do (for example, convert `.wav` files into `.mp3` and send it to the `Output Folder`). 
-- Press `ok` button. 
+To convert an audio file, please follow the steps below: 
+- Add your files by clicking the `Add Files` button or drag your files to the window. 
+- Press the `Start` button. 
+- In the dialogue box select what you want to do (e.g. convert `.wav` files to `.mp3` and send them to the `Output Folder`). 
+- Press the `OK` button. 
 
-Your files will be in the output folder. Press `Open Output Folder` to see your files. 
+Your files will be in the output folder. Press `Open Output Folder` to view your files. 
 
-*NOTE: You can pause at any moment converting clicking `Pause` button.* 
+*NOTE: You can stop the conversion at any time by clicking the `Pause` button. 
 
-## Help Docs
+## Help Documents
 
 👉 Visit our [Help Docs](./HELP.md) for more specific features and more about each step. 
 
 ## Bugs 
 
-Unfortunately, ExpressMpeg is not fully bug fixed. If a bug appears, follow these instructions: 
-- Describe your bug to [expressmpeg@gmail.com](mailto:expressmpeg.com) and we'll try to fix the bug. 
+Unfortunately ExpressMpeg is not completely bug free. If you encounter a bug, please follow these instructions 
+- Describe your bug to [expressmpeg@gmail.com](mailto:expressmpeg.com) and we'll try to fix it. 
 
 We appreciate this kind of help 💜. 
 
 ## License 
 
-ExpressMpeg is licensed under [MIT](./LICENSE). 
-*Copyright © 2023 by Jean Moïse Talec.* 
+ExpressMpeg is licensed under the [MIT](./LICENSE). 
+*Copyright © 2023 by Jean Moïse Talec. 
 
  
