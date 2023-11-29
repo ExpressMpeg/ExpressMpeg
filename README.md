@@ -31,7 +31,7 @@ Tadam! The beautiful window of expressmpeg appears. Please refer to [Quick Start
 
 |Platform  | <img width=16 src="https://www.svgrepo.com/download/138917/download.svg"> Files                                          | 
 |--------  | ------                                         | 
-| <img src="./windows-11.png" height=32 align="justify"> | [Windows x86_64 installer v(2.0.4)](https://www.vizysound.com/ExpressMpeg/installers/expressmpeg_x86_64_v_(2.0.4).exe)  | 
+| <img src="./windows-11.png" height=32 align="justify"> | [Windows x86_64 installer v(2.0.5)](https://www.vizysound.com/ExpressMpeg/installers/expressmpeg_x86_64_v_(2.0.5).exe)  | 
 | <img style="margin-left:12px" src="./windows-7.png" height=32 align="justify">|[Windows win32 installer v(2.0.2)](https://www.vizysound.com/ExpressMpeg/installers/expressmpeg_win32_v_(2.0.2).exe)| 
 
 **NOTE:** 
@@ -53,11 +53,6 @@ Your files will be in the output folder. Press `Open Output Folder` to see your 
 ## Help Docs
 
 👉 Visit our [Help Docs](./HELP.md) for more specific features and more about each step. 
-
-## Updates   
-
-Updates will appear here. 
-For now, no updates are available. 
 
 ## Bugs 
 
