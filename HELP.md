@@ -76,7 +76,7 @@ You can set the output framerate:
 - Highest quality
 - Custom quality (11025, 22050, 44100, 48000, 96000, 192000) fps
 
-*NOTE: The framerate will only be applied if the file supports it.
+*NOTE: The framerate will only be applied if the file supports it.*
 
 #### Number of files processed simultaneously
 
