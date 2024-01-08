@@ -65,6 +65,6 @@ We appreciate this kind of help 💜.
 
 ExpressMpeg is licensed under the [MIT](./LICENSE). 
 
-*Copyright © 2023 by Jean Moïse Talec.*
+*Copyright © 2024 by Jean Moïse Talec.*
 
  
