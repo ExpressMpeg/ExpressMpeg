@@ -4,15 +4,15 @@
 
 Here are the topics you might want to know about:
 
-- Main Window](#main-window)
+- [Main Window](#main-window)
     - Adding files
     - Playing a song from ExpressMpeg
     - Delete a song
-- Start Dialog](#start-dialog)
-- While Converting](#while-converting)
+- [Start Dialog](#start-dialog)
+- [While Converting](#while-converting)
   - Pause and resume
   - All files are converted
-- Settings](#Settings)
+- [Settings](#Settings)
   - Output Folder
   - Output frame rate
   - Number of files being processed at the same time
