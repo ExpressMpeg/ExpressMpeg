@@ -6,7 +6,8 @@ These versions are provided to have security updates:
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.1     | ✅                 |
+| 2.0.7 x86_64  | ✅                 |
+| 2.0.7 Win32  | ✅                 |
 
 
 ## Reporting a Vulnerability
