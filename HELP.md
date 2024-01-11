@@ -85,4 +85,4 @@ You can set the output framerate:
 - If your PC has a Core i3 CPU with at least 4 GB of RAM, you can set the option to 1.
 
 *NOTE: If the option is set too high, the application will simply quit without crashing the system.*
-
+*NOTE: AMD ships are not supported for now.*
