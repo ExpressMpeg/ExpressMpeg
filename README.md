@@ -51,7 +51,7 @@ To convert an audio file, please follow the steps below:
 
 Your files will be in the output folder. Press `Open Output Folder` to view your files. 
 
-*NOTE: You can stop the conversion at any time by clicking the `Pause` button. 
+*NOTE: You can stop the conversion at any time by clicking the `Pause` button.*
 
 ## Help Documents
 
