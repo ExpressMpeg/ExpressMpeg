@@ -39,7 +39,7 @@ Wow! The beautiful expressmpeg window appears. Please refer to [Quick Start](#qu
 
 **NOTE:** 
 - If you are running Windows 8 or 10 or x86_64 Windows 7, download the Windows 11 version. 
-- The Windows 7 version may also work on Windows 2000 or Windows XP. 
+- The Windows 7 version may also work on Windows Vista or Windows XP. 
 
 ## Quick Start 
 
