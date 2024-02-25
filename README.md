@@ -34,7 +34,7 @@ Wow! The beautiful expressmpeg window appears. Please refer to [Quick Start](#qu
 
 |Platform | <img width=16 src="https://www.svgrepo.com/download/138917/download.svg"> Files | 
 |-------- | ------ | 
-| <img src="./windows-11.png" height=32 align="justify"> | [Windows x86_64 installer v(2.0.8)](https://www.vizysound.com/ExpressMpeg/installers/expressmpeg_x86_64_v_(2.0.8).exe)  | 
+| <img src="./windows-11.png" height=32 align="justify"> | [Windows x86_64 installer v(2.0.9)](https://www.vizysound.com/ExpressMpeg/installers/expressmpeg_x86_64_v_(2.0.9).exe)  | 
 | <img style="margin-left:12px" src="./windows-7.png" height=32 align="justify">|[Windows win32 installer v(2.0.7)](https://www.vizysound.com/ExpressMpeg/installers/expressmpeg_win32_v_(2.0.7).exe)| 
 
 **NOTE:** 
