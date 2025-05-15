@@ -9,26 +9,80 @@
 </p> 
 
 
-# ExpressMpeg 
+# ExpressMpeg
 
-A very simple fancy software to convert audio files. 
+
+**ExpressMpeg** est une application de conversion audio locale, rapide, intuitive et éco-responsable.
+Développée en **Python** avec une interface graphique moderne sous **Qt**, elle permet de convertir une large gamme de formats audio **sans connexion Internet**.
 
 ![Cover](./main-window.png) 
 
-## Install 
+---
 
-#### 💾 Installing ExpressMpeg is very simple.<br> 
+## 🚀 Fonctionnalités principales
 
-- Click on one of these files downwards.
-- Go to your download directory. 
-- Click the file beginning with `expressmpeg`. 
-- Normally, the computer asks you if you allow this program to change your computer. (It's just installing) 
-- If you have allowed the program to copy its files into `C:\Program Files (x86)\ExpressMpeg`, press `Agree` in the window. 
-- Press the `Install` button. 
-- Wait while the installer copies all its files. 
-- Press the 'Finish' button. 
+* 🔄 **Conversion multi-format** (MP3, WAV, OGG, FLAC, etc.)
+* 🖱️ **Interface simple et fluide** avec glisser-déposer
+* 📦 **Traitement par lots** de fichiers
+* 🎥 **Extraction audio depuis des vidéos (.mp4)**
+* 💻 **Aucune installation requise** – exécutable autonome
+* 🔒 **Traitement 100 % local** – respect total de la vie privée
 
-Wow! The beautiful expressmpeg window appears. Please refer to [Quick Start](#quick-start) to start converting. 
+---
+
+## ⚙️ Atouts techniques
+
+* 🔁 **Traitement parallèle optimisé** via `asyncio`
+* 🎨 **UI personnalisée** grâce à Qt et Frameless-Window
+* 🌱 **Démarche écologique** : aucun transfert de données, réduction de l'empreinte carbone
+* 🧩 **Basé sur FFmpeg**, appelé en arrière-plan via `subprocess`
+
+---
+
+## 💡 Exemples d’usage
+
+* Ajouter des fichiers via boîte de dialogue ou drag & drop
+* Choisir le format de sortie (MP3, WAV, etc.)
+* Lancer la conversion par lot
+* Visualiser la progression de chaque fichier
+* Accéder aux réglages : dossier de sortie, fréquence d’échantillonnage, nombre de conversions simultanées
+
+---
+
+## 🛠️ Technologies
+
+* **Python** (asyncio, subprocess)
+* **PyQt5 / Qt Designer**
+* **FFmpeg**
+* **Frameless-Window**
+
+---
+
+## 📦 Installation
+
+* ✅ **Compatibilité** : Windows 10+
+* 📁 Lancez `ExpressMpeg.exe` dans le dossier `application`
+* 🔌 **Aucune dépendance externe** nécessaire
+
+---
+
+## 📚 Formats pris en charge
+
+Plus de 40 formats audio sont supportés : `.mp3`, `.aac`, `.ogg`, `.flac`, `.wav`, `.m4a`, `.alac`, `.wma`, etc.
+
+---
+
+## 🔮 Perspectives d’évolution
+
+* Support **Linux / macOS**
+* Ajout d’un **éditeur de métadonnées**
+* Système de **logs et diagnostics avancés**
+
+---
+
+## 👤 Auteur
+
+Créé par **Jean Talec**
 
 ### Windows Software 
 
